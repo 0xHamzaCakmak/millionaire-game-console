@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "milyoner yarisması", "milyoner yarisması\milyoner yarisması.csproj", "{9E0C4740-3957-4020-8B40-B56F71AD29BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E0C4740-3957-4020-8B40-B56F71AD29BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E0C4740-3957-4020-8B40-B56F71AD29BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E0C4740-3957-4020-8B40-B56F71AD29BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E0C4740-3957-4020-8B40-B56F71AD29BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18E38974-F24C-4F2B-BD7A-DA6CDC679D52}
+	EndGlobalSection
+EndGlobal
